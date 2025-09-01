@@ -35,7 +35,7 @@ nav a:hover{
     padding: 6px;
     background-color: rgb(156, 45, 51);
     text-transform: uppercase;
-    font-style: bold;
+    font-weight: bold;
     border-radius: 30px;
 }
 label {

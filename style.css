@@ -5,6 +5,9 @@ body{
     margin: 0 auto;
     padding: 5px;
 }
+header {
+    text-align:center;
+}
 @media (max-width: 768px) {
 body {
     font-size: 12px
@@ -90,3 +93,4 @@ footer{
     font-size: 12px;
 
 }
+

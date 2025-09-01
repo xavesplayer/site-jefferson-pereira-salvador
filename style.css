@@ -4,6 +4,10 @@ body {
     font-size: 12px
 }
 }
+header{
+    font-size: 20px;
+    font-weight: bold;
+}
 body{
     font-size: 16px;
     font-family:'Helvetica', 'Arial', sans-serif;

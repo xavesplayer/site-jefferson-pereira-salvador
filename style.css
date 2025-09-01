@@ -129,6 +129,11 @@ article {
     font-weight: bold;
     font-size: 20px;
 }
+#negrito a{
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 16px;
+} 
 article:hover{
     transform: translate(0, 5px);
     box-shadow: 0 10px 10px gray;
